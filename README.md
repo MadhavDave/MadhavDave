@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey there, I'm Madhav Dave!
+💻 Aspiring Web Developer | Open to Internships & Trainee Roles
 
-<!--
-**MadhavDave/MadhavDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Applications graduate passionate about building modern, responsive, and interactive web experiences. I love experimenting with ReactJs, ThreeJs, JavaScript animations (Shery.js), and backend technologies like PHP & MySQL.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On:
+🔹 Exploring React.js & Node.js to sharpen my full-stack skills
+🔹 Cloning award-winning websites to understand advanced design & development techniques
+🔹 Developed a Hospital Management System as a college project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:
+HTML | CSS | JavaScript | Bootstrap | React.js | Three.js | Node.js | Shery.js | PHP | MySQL | Laravel | Python (Basic)
+
+💡 Soft Skills:
+Team Player | Problem Solver | Time Management | Client Communication 
+
+📬 Let's Connect:
+🔗 LinkedIn
+📧 madhavdave2883@gmail.com
+
